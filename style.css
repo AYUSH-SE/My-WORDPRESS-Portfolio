@@ -1,0 +1,37 @@
+/*
+Theme Name: Ayush Sharma Portfolio
+Author: Ayush Sharma
+Description: A custom WordPress theme based on Ayush Sharma's portfolio.
+Version: 1.0
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.content {
+    margin: 2em 0;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.about-img {
+    width: 150px;
+    border-radius: 50%;
+}
